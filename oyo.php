@@ -3,7 +3,7 @@ error_reporting(0);
 //MASUKAN REF MU
 $referral = "NURJBWBEN"; 
 //INDO = 62 & USA = 1
-$ct=62;
+$ct=1;
 //=============================
 function fetch_value($str,$find_start,$find_end) {
 	$start = @strpos($str,$find_start);
